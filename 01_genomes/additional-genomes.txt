@@ -1,0 +1,175 @@
+
+
+GCA_000221965.1_ASM22196v1_genomic.fna	Xcr 756C
+
+GCA_000590355.1_20120327_genomic.fna	Xcr CFBP 5828R
+
+GCA_003410095.1_ASM341009v1_genomic.fna	Xcc WHRI10004
+
+GCA_003410105.1_ASM341010v1_genomic.fna	Xcr WHRI10006
+
+GCA_003410125.1_ASM341012v1_genomic.fna	Xcc WHRI10003
+
+GCA_003410175.1_ASM341017v1_genomic.fna	Xc WHRI8473
+
+GCA_003410195.1_ASM341019v1_genomic.fna	Xci WHRI8527
+
+GCA_003410215.1_ASM341021v1_genomic.fna	Xc WHRI8525
+
+GCA_003410225.1_ASM341022v1_genomic.fna	Xc WHRI8481
+
+GCA_003413645.1_ASM341364v1_genomic.fna	Xcc WHRI8960
+
+GCA_013388375.1_ASM1338837v1_genomic.fna    Xcr MAFF106181
+
+GCA_020008105.1_ASM2000810v1_genomic.fna    	Xci 18048
+
+GCA_020731405.1_ASM2073140v1_genomic.fna	    Xc pv. armoraciae NCPPB 347
+
+GCA_020812955.1_ASM2081295v1_genomic.fna	       NCPPB 4037
+
+GCA_020812975.1_ASM2081297v1_genomic.fna	       	     NCPPB 2345
+
+GCA_020812995.1_ASM2081299v1_genomic.fna		     	   NCPPB 4231
+
+GCA_020813005.1_ASM2081300v1_genomic.fna			   	 Xc pv. plantaginis NCPPB 1061
+
+GCA_020813015.1_ASM2081301v1_genomic.fna				    Xc pv. papavericola NCPPB 2970
+
+GCA_020813055.1_ASM2081305v1_genomic.fna				       Xc NCPPB 2918
+
+GCA_020813075.1_ASM2081307v1_genomic.fna				       	  Xcr NCPPB 1946
+
+GCA_020813085.1_ASM2081308v1_genomic.fna					      Xc NCPPB 3884
+
+GCA_020813115.1_ASM2081311v1_genomic.fna					      	 Xc pv. aberrans NCPPB 2986
+
+GCA_020813135.1_ASM2081313v1_genomic.fna						    Xcc NCPPB 528
+
+GCA_020813155.1_ASM2081315v1_genomic.fna						    	Xc NCPPB 3883
+
+GCA_020813175.1_ASM2081317v1_genomic.fna							   Xc NCPPB 2586
+
+GCA_020813195.1_ASM2081319v1_genomic.fna							      Xc NCPPB 4232
+
+GCA_020813295.1_ASM2081329v1_genomic.fna							      	 Xci NCPPB 937
+
+GCA_020813315.1_ASM2081331v1_genomic.fna								     Xc pv. barbareae NCPPB 983
+
+GCA_021864795.1_ASM2186479v1_genomic.fna								     	Xcr GBBC1468
+
+GCA_028749545.1_ASM2874954v1_genomic.fna									    Xcc CFBP6943
+
+GCA_028749565.1_ASM2874956v1_genomic.fna									    	Xcr 5055
+
+GCA_028749585.1_ASM2874958v1_genomic.fna										    Xc 5053
+
+GCA_028749605.1_ASM2874960v1_genomic.fna										       Xci CFBP1606
+
+GCA_028749625.1_ASM2874962v1_genomic.fna										       	   Xc CFBP5824
+
+GCA_028749645.1_ASM2874964v1_genomic.fna											      Xci CFBP1371
+
+GCA_028749665.1_ASM2874966v1_genomic.fna											      	  Xci CFBP6690
+
+GCA_028749685.1_ASM2874968v1_genomic.fna												      Xcr 719
+
+GCA_028749705.1_ASM2874970v1_genomic.fna 												      	  Xcc CFBP12825
+
+GCA_028749725.1_ASM2874972v1_genomic.fna													      Xcr 609
+
+GCA_028749745.1_ASM2874974v1_genomic.fna													      	  Xcr 576
+
+GCA_028749765.1_ASM2874976v1_genomic.fna														      Xcc 10108
+
+GCA_028749785.1_ASM2874978v1_genomic.fna														      	  Xcc 08290
+
+GCA_028749805.1_ASM2874980v1_genomic.fna															      Xcc 13108G
+
+GCA_028749825.1_ASM2874982v1_genomic.fna															      	  Xcc 12112
+
+GCA_028749845.1_ASM2874984v1_genomic.fna																      Xcc 10090
+
+GCA_028749865.1_ASM2874986v1_genomic.fna																      	  Xcc 0792
+
+GCA_028749885.1_ASM2874988v1_genomic.fna																	      Xcc 12049
+
+GCA_028749905.1_ASM2874990v1_genomic.fna																	      	  Xcc 08284
+
+GCA_028749925.1_ASM2874992v1_genomic.fna																		      Xcc 0659
+
+GCA_028749945.1_ASM2874994v1_genomic.fna																		      	  Xcc 0793
+
+GCA_028750015.1_ASM2875001v1_genomic.fna																			      Xcc 10103
+
+GCA_028750035.1_ASM2875003v1_genomic.fna																			      	  Xcc 08288
+
+GCA_028750055.1_ASM2875005v1_genomic.fna																				      Xci 8-14
+
+GCA_028750075.1_ASM2875007v1_genomic.fna																				      	  Xc 11-19
+
+GCA_028750095.1_ASM2875009v1_genomic.fna																					     Xci 4053
+
+GCA_028750115.1_ASM2875011v1_genomic.fna																					     	 Xci 5057
+
+GCA_028750135.1_ASM2875013v1_genomic.fna																						     Xc 3054
+
+GCA_028750155.1_ASM2875015v1_genomic.fna																						     	Xcc 08305
+
+GCA_028750275.1_ASM2875027v1_genomic.fna																							    Xci 16-8
+
+GCA_028750335.1_ASM2875033v1_genomic.fna																							    	Xc 10-16
+
+GCA_028750355.1_ASM2875035v1_genomic.fna																								   Xcc 10008
+
+GCA_028750375.1_ASM2875037v1_genomic.fna																								       Xcc 11085
+
+GCA_028750395.1_ASM2875039v1_genomic.fna																								       	   Xcc 10006
+
+GCA_028750415.1_ASM2875041v1_genomic.fna																									       Xcc 28-1
+
+GCA_028750435.1_ASM2875043v1_genomic.fna																									       	   Xcc 55-1
+
+GCA_028750455.1_ASM2875045v1_genomic.fna																										       Xcc 55-2
+
+GCA_028750515.1_ASM2875051v1_genomic.fna																										       	   Xcc 27-10
+
+GCA_028750535.1_ASM2875053v1_genomic.fna																											       Xcc 27-9
+
+GCA_028750555.1_ASM2875055v1_genomic.fna																											       	   Xcc 27-6
+
+GCA_028750575.1_ASM2875057v1_genomic.fna																												       Xcc 25-4
+
+GCA_028750595.1_ASM2875059v1_genomic.fna																												       	   Xcc 15-1
+
+GCA_028750615.1_ASM2875061v1_genomic.fna																													       Xcc 42-2
+
+GCA_028750635.1_ASM2875063v1_genomic.fna																													       	   Xcc 42-4
+
+GCA_028750655.1_ASM2875065v1_genomic.fna																														       Xcc 42-1
+
+GCA_028751215.1_ASM2875121v1_genomic.fna																														       	   Xcc 66-2
+
+GCA_028751235.1_ASM2875123v1_genomic.fna																															       Xcc 42-3
+
+GCA_028751255.1_ASM2875125v1_genomic.fna																															       	   Xcc 33-5
+
+GCA_028751275.1_ASM2875127v1_genomic.fna																																       Xcc 33-4
+
+GCA_028751295.1_ASM2875129v1_genomic.fna																																       	   Xcc 33-2
+
+GCA_028751315.1_ASM2875131v1_genomic.fna																																	       Xcc 33-1
+
+GCA_028751335.1_ASM2875133v1_genomic.fna																																	         Xcc 29-6
+
+GCA_028751355.1_ASM2875135v1_genomic.fna																																		   Xcc 29-5
+
+GCA_028751375.1_ASM2875137v1_genomic.fna																																		     Xcc 39-3
+
+GCA_028751395.1_ASM2875139v1_genomic.fna																																		       Xcc 40-2
+
+GCA_028751435.1_ASM2875143v1_genomic.fna																																		         Xcc 30-1
+
+GCA_028751465.1_ASM2875146v1_genomic.fna																																			   Xcc 54-3
+
+GCA_028751505.1_ASM2875150v1_genomic.fna																																			     Xcc 54-2
