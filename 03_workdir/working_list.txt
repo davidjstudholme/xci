@@ -75,7 +75,6 @@ WHRI_3820A_contig
 WHRI_3843B_contig
 WHRI_3849A_Xcc_Race_2_contig
 WHRI_3851A_Xcc_Race_3_contig
-WHRI_3880_NCPPB_2986_contig
 WHRI_3880_Xcc_Race_5_contig
 WHRI_3961_Xcc_Race_9_contig
 WHRI_5219_Xce_contig
@@ -89,7 +88,6 @@ WHRI_6375_Xc_contig
 WHRI_6376_Xc_np_contig
 WHRI_6377_Xci_contig
 WHRI_6378_Xci_contig
-WHRI_6382_NCPPB_1711_contig
 WHRI_6382_Xcc_Race_5_contig
 WHRI_6490_Xcr_Race_1_contig
 WHRI_6519_Xcr_Race_3_contig
