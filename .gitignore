@@ -5,9 +5,6 @@ proc
 PhageBoost
 DeepVirFinder
 
-
-
-
 *.tfrec
 *_prodigal.gff
 *_prodigal.faa
@@ -61,8 +58,6 @@ md5sum.txt
 **/*workdir*/results/alignments/**
 **/*workdir*/results/temp/**
 **/*workdir*/files/**
-
-
 
 # SNP calling indexes
 *.bwt
