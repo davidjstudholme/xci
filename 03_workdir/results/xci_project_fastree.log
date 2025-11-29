@@ -1,7 +1,7 @@
 
 Running self-nucmer on /data/djs217/PROJECTS/48_Xci/xci/03_workdir/files/WHRI_5212_Xcc_Race_3.fna
-[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1526229 /data/djs217/PROJECTS/48_Xci/xci/03_workdir/files/WHRI_5212_Xcc_Race_3.fna /data/djs217/PROJECTS/48_Xci/xci/03_workdir/files/WHRI_5212_Xcc_Race_3.fna 2>/dev/null
-[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1526229.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1526229.coords
+[RUNNING:] nucmer --maxmatch --nosimplify --prefix=seq_seq1559802 /data/djs217/PROJECTS/48_Xci/xci/03_workdir/files/WHRI_5212_Xcc_Race_3.fna /data/djs217/PROJECTS/48_Xci/xci/03_workdir/files/WHRI_5212_Xcc_Race_3.fna 2>/dev/null
+[RUNNING:] show-coords -r -I 97 -L 75 -T seq_seq1559802.delta | awk '$1 != $3 || $2 != $4 && $8==$9 {print}' > seq_seq1559802.coords
 
 Repeat coords for all references found.
 Self-NUCmer complete
@@ -31,7 +31,6 @@ Running nucmer on WHRI_5212_Xcc_Race_3_WHRI_10038_Xce_contig
 Running nucmer on WHRI_5212_Xcc_Race_3_WHRI_8527_Xci_contig
 Running nucmer on WHRI_5212_Xcc_Race_3_WHRI_6490_1_Xcr_Race_1_contig
 Running nucmer on WHRI_5212_Xcc_Race_3_WHRI_10050A_Xce_contig
-Running nucmer on WHRI_5212_Xcc_Race_3_WHRI_5212_Xcc_Race_3_contig
 Running nucmer on WHRI_5212_Xcc_Race_3_WHRI_10066B_Xce_contig
 Running nucmer on WHRI_5212_Xcc_Race_3_WHRI_8482_Xce_contig
 Running nucmer on WHRI_5212_Xcc_Race_3_WHRI_6490_2_Xcr_Race_1_contig
@@ -104,7 +103,6 @@ Running nucmer on WHRI_5212_Xcc_Race_3_WHRI_10046_Xce_contig
 Running nucmer on WHRI_5212_Xcc_Race_3_WHRI_10114_Xce_contig
 Running nucmer on WHRI_5212_Xcc_Race_3_WHRI_1279A_Xcc_Race_4_contig
 Running nucmer on WHRI_5212_Xcc_Race_3_WHRI_10043_Xce_contig
-Running nucmer on WHRI_5212_Xcc_Race_3_NCPPB_1067_Xcr__contig
 Running nucmer on WHRI_5212_Xcc_Race_3_WHRI_10257A_Xce_contig
 Running nucmer on WHRI_5212_Xcc_Race_3_WHRI_3880_2_Xcc_Race_5_contig
 Running nucmer on WHRI_5212_Xcc_Race_3_WHRI_10068B_Xce_contig
@@ -120,113 +118,111 @@ Running nucmer on WHRI_5212_Xcc_Race_3_WHRI_10219A_Xce_contig
 Running nucmer on WHRI_5212_Xcc_Race_3_WHRI_10039_Xce_contig
 NUCmer on all contig/draft genomes complete.
 
-Empty Gap Files: /data/djs217/PROJECTS/48_Xci/xci/03_workdir/results/gaps/WHRI_5212_Xcc_Race_3_WHRI_5212_Xcc_Race_3_contig.gaps
 
 buildSNPDB.pl -i /data/djs217/PROJECTS/48_Xci/xci/03_workdir/results -r /data/djs217/PROJECTS/48_Xci/xci/03_workdir/files/WHRI_5212_Xcc_Race_3.fna -l /data/djs217/PROJECTS/48_Xci/xci/03_workdir/working_list.txt -p xci_project_fastree -c 0 -g 0.1 2>>/data/djs217/PROJECTS/48_Xci/xci/03_workdir/results/xci_project_fastree.error >> /data/djs217/PROJECTS/48_Xci/xci/03_workdir/results/xci_project_fastree.log
 
 Reading Gaps file.
-WHRI_10050A_Xce_contig covered 0.92098 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-WHRI_10256_Xce_contig covered 0.92071 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-WHRI_10219A_Xce_contig covered 0.92062 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-WHRI_8525_Xce_contig covered 0.92320 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-WHRI_10114_Xce_contig covered 0.92473 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-WHRI_10255_Xce_contig covered 0.92090 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-WHRI_10027B_Xce_contig covered 0.92007 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-WHRI_3811_1_Xcc_Race_1_contig covered 0.93662 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-NCPPB_3884_Xsp_contig covered 0.95489 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-WHRI_10046_Xce_contig covered 0.92003 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-WHRI_6519_2_Xcr_Race_3_contig covered 0.90022 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-WHRI_3880_1_Xcc_Race_5_contig covered 0.96255 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-WHRI_10045_Xce_contig covered 0.91725 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-WHRI_6382_1_Xcc_Race_5_contig covered 0.96542 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-WHRI_8527_Xce_contig covered 0.91521 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-WHRI_10223_Xci_contig covered 0.91634 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-WHRI_5219_Xce_contig covered 0.92047 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-WHRI_10040_Xce_contig covered 0.95665 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-WHRI_8960_1_Xce_contig covered 0.95717 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-WHRI_1279A_Xcc_Race_4_contig covered 0.95988 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-WHRI_10221_Xce_contig covered 0.92061 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-WHRI_3851A_Xcc_Race_3_contig covered 0.93695 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-WHRI_10227_Xce_contig covered 0.92519 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-WHRI_8450A_Xcc_Race_7_contig covered 0.95076 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-WHRI_10066A_Xce_contig covered 0.95954 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_8473_Xce_contig covered 0.92030 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_10039_Xce_contig covered 0.91957 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
 WHRI_6378_2_Xci_contig covered 0.91648 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-WHRI_8527_Xci_contig covered 0.91563 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-WHRI_8963_Xce_contig covered 0.95610 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_8522_plantaginis_contig covered 0.88021 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
 WHRI_3961_Xcc_Race_9_contig covered 0.98760 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
 WHRI_3811_2_Xcc_Race_1_contig covered 0.93670 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-WHRI_10039_Xce_contig covered 0.91957 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-WHRI_3880_2_Xcc_Race_5_contig covered 0.96234 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-WHRI_10066B_Xce_contig covered 0.95947 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-WHRI_8476_Xce_contig covered 0.92079 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-WHRI_8477_Xce_contig covered 0.92056 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-WHRI_10219C_Xce_contig covered 0.92074 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-WHRI_8522_plantaginis_contig covered 0.88021 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-WHRI_6181_2_Xcc_Race_6_contig covered 0.92654 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-WHRI_10258_Xce_contig covered 0.92513 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-WHRI_6376_Xc_np_contig covered 0.92069 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-WHRI_10003_Xce_contig covered 0.95620 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-WHRI_8298_Xcr_Race_1_contig covered 0.90160 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-WHRI_10038_Xce_contig covered 0.91959 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-WHRI_8482_Xce_contig covered 0.92072 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-WHRI_6181_1_Xcc_Race_6_contig covered 0.92568 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-WHRI_10068B_Xce_contig covered 0.92082 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-WHRI_8305_1_Xcr_Race_2_contig covered 0.91299 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-WHRI_3849A_Xcc_Race_2_contig covered 0.94841 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-WHRI_10257A_Xce_contig covered 0.92532 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-WHRI_6490_1_Xcr_Race_1_contig covered 0.85919 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-NCPPB_3883_Xsp_contig covered 0.94914 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-NCPPB_2970_papavericola_contig covered 0.89344 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-WHRI_10224_Xci_contig covered 0.91652 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-CFBP_1124_1_Xcc_Race_8_contig covered 0.98176 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-WHRI_10041_Xce_contig covered 0.91677 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-WHRI_10229_Xce_contig covered 0.92532 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-WHRI_10254_Xce_contig covered 0.92067 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-WHRI_8473_Xce_contig covered 0.92030 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-REPEATS covered 0.99008 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-WHRI_6378_1_Xci_contig covered 0.90673 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-WHRI_10044_Xce_contig covered 0.92008 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-WHRI_8474_Xce_contig covered 0.90862 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-WHRI_6382_2_Xcc_Race_5_contig covered 0.96820 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-WHRI_10037_Xce_contig covered 0.91970 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-WHRI_6375_Xc_contig covered 0.92463 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-NCPPB_4037_2_Xsp_contig covered 0.87747 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-WHRI_6490_2_Xcr_Race_1_contig covered 0.89977 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-WHRI_8960_2_Xce_contig covered 0.95529 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-WHRI_8305_2_Xcr_Race_2_contig covered 0.91346 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-WHRI_6195_Xcc_Race_1_contig covered 0.93615 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
 WHRI_5212_Xcc_Race_3 covered 0.99996 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-WHRI_6519_1_Xcr_Race_3_contig covered 0.90048 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-WHRI_10231A_Xce_contig covered 0.96000 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-WHRI_6377_Xci_contig covered 0.91533 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-WHRI_10071A_Xce_contig covered 0.92516 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-WHRI_10226_Xce_contig covered 0.92077 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-NCPPB_4231_Xsp_contig covered 0.87287 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-WHRI_10067A_Xce_contig covered 0.92037 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-WHRI_3777A_Xce_contig covered 0.92072 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-NCPPB_2918_Xc_contig covered 0.95546 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-WHRI_10231B_Xce_contig covered 0.95985 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-WHRI_10225_Xce_contig covered 0.92070 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-WHRI_10252_Xce_contig covered 0.92060 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-NCPPB_4037_1_Xsp_contig covered 0.87778 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-NCPPB_2345_Xce_contig covered 0.92030 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
 WHRI_10028A_Xce_contig covered 0.92020 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-WHRI_10042_Xce_contig covered 0.92461 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-WHRI_8523_Xce_contig covered 0.92069 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+NCPPB_4037_2_Xsp_contig covered 0.87747 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_3851A_Xcc_Race_3_contig covered 0.93695 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_8298_Xcr_Race_1_contig covered 0.90160 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_10257A_Xce_contig covered 0.92532 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_10114_Xce_contig covered 0.92473 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_10258_Xce_contig covered 0.92513 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_5219_Xce_contig covered 0.92047 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
 WHRI_10228_Xce_contig covered 0.93698 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-NCPPB_1067_Xcr__contig covered 0.58064 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-WHRI_10253_Xce_contig covered 0.92042 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-NCPPB_4232_Xsp_contig covered 0.87250 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-WHRI_10230_Xce_contig covered 0.92533 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-WHRI_8521_plantaginis_contig covered 0.88860 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-WHRI_8520_barbareae_contig covered 0.91774 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
 WHRI_8481_Xc_np_contig covered 0.89585 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-WHRI_10072B_Xce_contig covered 0.92524 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-WHRI_10043_Xce_contig covered 0.92178 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-WHRI_10219D_Xce_contig covered 0.92043 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
-WHRI_10231C_Xce_contig covered 0.95968 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_10253_Xce_contig covered 0.92042 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_8474_Xce_contig covered 0.90862 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_3811_1_Xcc_Race_1_contig covered 0.93662 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_10044_Xce_contig covered 0.92008 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_8450A_Xcc_Race_7_contig covered 0.95076 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
 NCPPB_2922_Xci_contig covered 0.91500 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_8963_Xce_contig covered 0.95610 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_10066A_Xce_contig covered 0.95954 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_10219A_Xce_contig covered 0.92062 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_10066B_Xce_contig covered 0.95947 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_10223_Xci_contig covered 0.91634 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_10037_Xce_contig covered 0.91970 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+NCPPB_4231_Xsp_contig covered 0.87287 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_1279A_Xcc_Race_4_contig covered 0.95988 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
 CFBP_1124_2_Xcc_Race_8_contig covered 0.98001 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_6181_1_Xcc_Race_6_contig covered 0.92568 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_10226_Xce_contig covered 0.92077 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_6519_1_Xcr_Race_3_contig covered 0.90048 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_10040_Xce_contig covered 0.95665 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_10231C_Xce_contig covered 0.95968 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_8527_Xce_contig covered 0.91521 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_10068B_Xce_contig covered 0.92082 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_8482_Xce_contig covered 0.92072 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+REPEATS covered 0.99008 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+NCPPB_4037_1_Xsp_contig covered 0.87778 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_6490_1_Xcr_Race_1_contig covered 0.85919 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_6181_2_Xcc_Race_6_contig covered 0.92654 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_8305_2_Xcr_Race_2_contig covered 0.91346 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_10225_Xce_contig covered 0.92070 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_8520_barbareae_contig covered 0.91774 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_8305_1_Xcr_Race_2_contig covered 0.91299 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_6195_Xcc_Race_1_contig covered 0.93615 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_10072B_Xce_contig covered 0.92524 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_10042_Xce_contig covered 0.92461 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_10255_Xce_contig covered 0.92090 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+CFBP_1124_1_Xcc_Race_8_contig covered 0.98176 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+NCPPB_3883_Xsp_contig covered 0.94914 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_6519_2_Xcr_Race_3_contig covered 0.90022 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_10256_Xce_contig covered 0.92071 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_10221_Xce_contig covered 0.92061 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_6378_1_Xci_contig covered 0.90673 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_8521_plantaginis_contig covered 0.88860 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_8476_Xce_contig covered 0.92079 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_10041_Xce_contig covered 0.91677 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_10231B_Xce_contig covered 0.95985 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_10231A_Xce_contig covered 0.96000 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_10071A_Xce_contig covered 0.92516 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_10067A_Xce_contig covered 0.92037 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_10230_Xce_contig covered 0.92533 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+NCPPB_2918_Xc_contig covered 0.95546 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_6382_2_Xcc_Race_5_contig covered 0.96820 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_6382_1_Xcc_Race_5_contig covered 0.96542 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_10050A_Xce_contig covered 0.92098 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_3849A_Xcc_Race_2_contig covered 0.94841 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+NCPPB_3884_Xsp_contig covered 0.95489 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_6377_Xci_contig covered 0.91533 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_10252_Xce_contig covered 0.92060 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_10045_Xce_contig covered 0.91725 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_8525_Xce_contig covered 0.92320 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+NCPPB_4232_Xsp_contig covered 0.87250 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_8960_1_Xce_contig covered 0.95717 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+NCPPB_2345_Xce_contig covered 0.92030 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_10046_Xce_contig covered 0.92003 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_8523_Xce_contig covered 0.92069 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_6490_2_Xcr_Race_1_contig covered 0.89977 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_3880_2_Xcc_Race_5_contig covered 0.96234 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_10027B_Xce_contig covered 0.92007 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_8960_2_Xce_contig covered 0.95529 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_10229_Xce_contig covered 0.92532 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_10219D_Xce_contig covered 0.92043 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_8527_Xci_contig covered 0.91563 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_10254_Xce_contig covered 0.92067 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_3880_1_Xcc_Race_5_contig covered 0.96255 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_6375_Xc_contig covered 0.92463 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_10043_Xce_contig covered 0.92178 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_3777A_Xce_contig covered 0.92072 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_10227_Xce_contig covered 0.92519 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_10003_Xce_contig covered 0.95620 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_8477_Xce_contig covered 0.92056 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_10224_Xci_contig covered 0.91652 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_10038_Xce_contig covered 0.91959 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_10219C_Xce_contig covered 0.92074 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+NCPPB_2970_papavericola_contig covered 0.89344 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
+WHRI_6376_Xc_np_contig covered 0.92069 of the WHRI_5212_Xcc_Race_3 (<cutoff = 0.1). It will be used to build SNP tree and matrix.
 Printing Summary Statistics.
 Creating SNP alignment.
 Creating SNP stats file. 

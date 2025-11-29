@@ -1,7 +1,6 @@
 WHRI_5212_Xcc_Race_3
 CFBP_1124_1_Xcc_Race_8_contig
 CFBP_1124_2_Xcc_Race_8_contig
-NCPPB_1067_Xcr__contig
 NCPPB_2345_Xce_contig
 NCPPB_2918_Xc_contig
 NCPPB_2922_Xci_contig
@@ -64,7 +63,6 @@ WHRI_3851A_Xcc_Race_3_contig
 WHRI_3880_1_Xcc_Race_5_contig
 WHRI_3880_2_Xcc_Race_5_contig
 WHRI_3961_Xcc_Race_9_contig
-WHRI_5212_Xcc_Race_3_contig
 WHRI_5219_Xce_contig
 WHRI_6181_1_Xcc_Race_6_contig
 WHRI_6181_2_Xcc_Race_6_contig
