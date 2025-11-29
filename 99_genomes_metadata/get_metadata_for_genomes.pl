@@ -56,7 +56,7 @@ foreach my $assembly_accession (sort keys %assembly_accessions) {
     }
 }
 
-### Get the strain, pathovar and owner  associated with each assembly
+### Get the strain, pathovar and owner and BioProject link associated with each assembly
 foreach my $metadata_ref (@assemblies) {
     warn "Assembly: $$metadata_ref{AssemblyAccession}\n";
 
@@ -95,11 +95,22 @@ foreach my $metadata_ref (@assemblies) {
     my $owner = $result;
     warn "\tOwner=$owner\n";
     $$metadata_ref{'Owner'} = $owner;
+
+    ### Get owner
+    $cmd = "esearch -db biosample -query $$metadata_ref{'BioSampleAccn'} | \
+           efetch -format docsum | \ 
+           xtract -pattern Links -element Link";
+    $result = `$cmd`;
+    chomp $result;
+    my $link = $result;
+    warn "\tLink=$link\n";
+    $$metadata_ref{'Link'} = $link;
+
 }
 
 
 ### Print header line
-my @elements_tmp = (@elements, 'Strain', 'Pathovar', 'Owner');
+my @elements_tmp = (@elements, 'Strain', 'Pathovar', 'Owner', 'Link');
 my $first_element = shift @elements_tmp;
 print "$first_element";
 foreach my $element (@elements_tmp) {
@@ -109,7 +120,7 @@ print "\n";
 
 ### List the assemblies
 foreach my $metadata_ref (@assemblies) {
-    my @elements_tmp = (@elements, 'Strain', 'Pathovar', 'Owner');
+    my @elements_tmp = (@elements, 'Strain', 'Pathovar', 'Owner', 'Link');
     my $first_element = shift @elements_tmp;
     print "$$metadata_ref{$first_element}";
     foreach my $element (@elements_tmp) {

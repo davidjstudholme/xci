@@ -1,128 +1,128 @@
-AssemblyAccession	AssemblyName	Organism	SpeciesTaxid	BioSampleAccn	ContigN50	Coverage	Strain	Pathovar	Owner
-GCF_000007145.1	ASM714v1	Xanthomonas campestris pv. campestris str. ATCC 33913 (g-proteobacteria)	339	SAMN02603845	5076188		ATCC 33913	campestris	NCBI
-GCF_000012105.1	ASM1210v1	Xanthomonas campestris pv. campestris str. 8004 (g-proteobacteria)	339	SAMN02603125	5148708		8004	campestris	NCBI
-GCF_000070605.1	ASM7060v1	Xanthomonas campestris pv. campestris (g-proteobacteria)	339	SAMEA3138285	5079002		B100	campestris	EBI
-GCF_000401735.2	ASM40173v2	Xanthomonas campestris pv. campestris str. CN14 (g-proteobacteria)	339	SAMN02469931	5033560	60	CN14	campestris	NCBI
-GCF_000403555.2	ASM40355v2	Xanthomonas campestris pv. campestris str. CN16 (g-proteobacteria)	339	SAMN02469927	5023147	77	CN16	campestris	NCBI
-GCF_000403575.2	ASM40357v2	Xanthomonas campestris pv. campestris str. CN15 (g-proteobacteria)	339	SAMN02469928	5030187	100	CN15	campestris	NCBI
-GCF_000589875.1	20120327	Xanthomonas campestris pv. campestris (g-proteobacteria)	339	SAMN02645661	415646	916	CFBP 6865R	campestris	CNRS
-GCF_000590075.1	20130205	Xanthomonas campestris pv. campestris str. CFBP 5817 (g-proteobacteria)	339	SAMN02645658	124247	1199	CFBP 5817	campestris	CNRS
-GCF_000590115.1	20121028	Xanthomonas campestris pv. campestris str. CN01 (g-proteobacteria)	339	SAMN02645663	179901	836	CN01	campestris	CNRS
-GCF_000590155.1	20121030	Xanthomonas campestris pv. campestris str. CN05 (g-proteobacteria)	339	SAMN02645666	160826	859	CN05	campestris	CNRS
-GCF_000590275.1	20120412	Xanthomonas campestris pv. campestris str. CFBP 1124 (g-proteobacteria)	339	SAMN02645653	149591	240	CFBP 1124	campestris	CNRS
-GCF_000590295.1	20120411	Xanthomonas campestris pv. campestris str. 147 (g-proteobacteria)	339	SAMN02645650	80681	320	147	campestris	CNRS
-GCF_002776735.1	ASM277673v1	Xanthomonas campestris pv. campestris str. CN03 (g-proteobacteria)	339	SAMN02645665	5035984	140	CN03	campestris	CNRS
-GCF_003410125.1	ASM341012v1	Xanthomonas campestris pv. campestris (g-proteobacteria)	339	SAMN09828750	151674	184	WHRI10003	campestris	University of Exeter
-GCF_003410175.1	ASM341017v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN09828782	308719	109	WHRI8473		University of Exeter
-GCF_003410195.1	ASM341019v1	Xanthomonas campestris pv. incanae (g-proteobacteria)	339	SAMN09828784	145002	167	WHRI8527	incanae	University of Exeter
-GCF_003410215.1	ASM341021v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN09828783	309071	116	WHRI8525		University of Exeter
-GCF_003410225.1	ASM341022v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN09828785	182674	110	WHRI8481		University of Exeter
-GCF_003413645.1	ASM341364v1	Xanthomonas campestris pv. campestris (g-proteobacteria)	339	SAMN09828786	171219	134	WHRI8960	campestris	University of Exeter
-GCF_020783795.1	ASM2078379v1	Xanthomonas sp. NCPPB 1067 (g-proteobacteria)	487524	SAMN22555470	131010	32	NCPPB 1067		University of Exeter
-GCF_020812955.1	ASM2081295v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN22552836	189096	133	NCPPB 4037		University of Exeter
-GCF_020812975.1	ASM2081297v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN22552837	300883	151	NCPPB 2345		University of Exeter
-GCF_020812995.1	ASM2081299v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN22552841	424918	177	NCPPB 4231		University of Exeter
-GCF_020813015.2	ASM2081301v2	Xanthomonas campestris pv. papavericola (g-proteobacteria)	339	SAMN22552843	4695898	25	NCPPB 2970	papavericola	University of Exeter
-GCF_020813055.1	ASM2081305v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN22552833	184313	96	NCPPB 2918		University of Exeter
-GCF_020813085.1	ASM2081308v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN22552832	163267	137	NCPPB 3884		University of Exeter
-GCF_020813155.1	ASM2081315v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN22552831	163261	223	NCPPB 3883		University of Exeter
-GCF_020813195.1	ASM2081319v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN22552842	925886	99	NCPPB 4232		University of Exeter
-GCF_020813295.1	ASM2081329v1	Xanthomonas campestris pv. incanae (g-proteobacteria)	339	SAMN22552838	191313	115	NCPPB 937	incanae	University of Exeter
-GCF_020813315.3	ASM2081331v3	Xanthomonas campestris pv. barbareae (g-proteobacteria)	339	SAMN22552839	5056482	83	NCPPB 983	barbareae	University of Exeter
-GCF_035011285.1	ASM3501128v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN36315990	178288	185	WHRI 10046		University of Exeter
-GCF_035011305.1	ASM3501130v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN36293680	102486	236	WHRI 10114		University of Exeter
-GCF_035011345.1	ASM3501134v1	Xanthomonas campestris pv. incanae (g-proteobacteria)	339	SAMN36318709	119777	114	WHRI 8527	incanae	University of Exeter
-GCF_035011365.1	ASM3501136v1	Xanthomonas campestris WHRI 8523 (g-proteobacteria)	339	SAMN36318708	138456	201	WHRI 8523		University of Exeter
-GCF_035011385.1	ASM3501138v1	Xanthomonas campestris pv. incanae (g-proteobacteria)	339	SAMN36318705	104228	110	WHRI 6378	incanae	University of Exeter
-GCF_035011425.1	ASM3501142v1	Xanthomonas campestris pv. raphani (g-proteobacteria)	339	SAMN36315931	109483	124	WHRI 8305	raphani	University of Exeter
-GCF_035011505.1	ASM3501150v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN36315978	128861	145	WHRI 10041		University of Exeter
-GCF_035011525.1	ASM3501152v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN36318711	228289	165	WHRI 10028A		University of Exeter
-GCF_035011545.1	ASM3501154v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN36315988	234895	269	WHRI 10039		University of Exeter
-GCF_035011565.1	ASM3501156v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN36315982	188888	309	WHRI 8477		University of Exeter
-GCF_035011605.1	ASM3501160v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN36315987	253208	193	WHRI 10038		University of Exeter
-GCF_035011625.1	ASM3501162v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN36315981	189060	297	WHRI 8476		University of Exeter
-GCF_035011645.1	ASM3501164v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN36315980	123131	223	WHRI 10045		University of Exeter
-GCF_035011665.1	ASM3501166v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN36315986	193049	345	WHRI 10037		University of Exeter
-GCF_035011685.1	ASM3501168v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN36315985	116783	131	WHRI 10050A		University of Exeter
-GCF_035011705.1	ASM3501170v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN36315979	114476	332	WHRI 10043		University of Exeter
-GCF_035011745.1	ASM3501174v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN36318710	207893	171	WHRI 10027B		University of Exeter
-GCF_035011765.1	ASM3501176v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN36315991	171860	109	WHRI 8963		University of Exeter
-GCF_035011785.1	ASM3501178v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN36315989	172485	71	WHRI 10044		University of Exeter
-GCF_035011805.1	ASM3501180v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN36318707	157238	187	WHRI 3777A		University of Exeter
-GCF_035011825.1	ASM3501182v1	Xanthomonas campestris pv. plantaginis (g-proteobacteria)	339	SAMN36318706	136070	292	WHRI 8522	plantaginis	University of Exeter
-GCF_035011845.1	ASM3501184v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN36293677	111667	260	WHRI 8960		University of Exeter
-GCF_035011865.1	ASM3501186v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN36315984	360679	142	WHRI 8474		University of Exeter
-GCF_035012425.1	ASM3501242v1	Xanthomonas campestris pv. raphani (g-proteobacteria)	339	SAMN36315913	159556	296	WHRI 6490	raphani	University of Exeter
-GCF_035013725.1	ASM3501372v1	Xanthomonas campestris pv. raphani (g-proteobacteria)	339	SAMN36315923	190120	324	WHRI 6519	raphani	University of Exeter
-GCF_035013825.1	ASM3501382v1	Xanthomonas campestris pv. raphani (g-proteobacteria)	339	SAMN36315927	164505	216	WHRI 8298	raphani	University of Exeter
-GCA_035023305.1	ASM3502330v1	Xanthomonas campestris pv. campestris (g-proteobacteria)	339	SAMN36346923	117600	279	WHRI 6181	campestris	University of Exeter
-GCA_035023345.1	ASM3502334v1	Xanthomonas campestris pv. campestris (g-proteobacteria)	339	SAMN36368330	165449	121	WHRI 5219 (NCPPB 2517)	campestris	University of Exeter
-GCA_035023425.1	ASM3502342v1	Xanthomonas campestris pv. campestris (g-proteobacteria)	339	SAMN36368309	147828	175	WHRI 3811	campestris	University of Exeter
-GCA_035023805.1	ASM3502380v1	Xanthomonas campestris pv. campestris (g-proteobacteria)	339	SAMN36368323	155096	148	WHRI 3880 (NCPPB 2986)	campestris	University of Exeter
-GCA_035023825.1	ASM3502382v1	Xanthomonas campestris pv. campestris (g-proteobacteria)	339	SAMN36368329	222227	147	WHRI 5212 (NCPPB 528)	campestris	University of Exeter
-GCA_035025285.1	ASM3502528v1	Xanthomonas campestris pv. campestris (g-proteobacteria)	339	SAMN36368316	178112	175	WHRI 3843B	campestris	University of Exeter
-GCA_035025305.1	ASM3502530v1	Xanthomonas campestris pv. campestris (g-proteobacteria)	339	SAMN36368382	163467	161	WHRI 6022A	campestris	University of Exeter
-GCA_035025745.1	ASM3502574v1	Xanthomonas campestris pv. campestris (g-proteobacteria)	339	SAMN36368312	121537	276	WHRI 3820A	campestris	University of Exeter
-GCA_035025925.1	ASM3502592v1	Xanthomonas campestris pv. campestris (g-proteobacteria)	339	SAMN36368340	163157	146	WHRI 8450A	campestris	University of Exeter
-GCA_035026625.1	ASM3502662v1	Xanthomonas campestris pv. campestris (g-proteobacteria)	339	SAMN36346965	107429	295	WHRI 6087	campestris	University of Exeter
-GCA_035026705.1	ASM3502670v1	Xanthomonas campestris pv. campestris (g-proteobacteria)	339	SAMN36346967	93985	309	WHRI 6367	campestris	University of Exeter
-GCA_035026785.1	ASM3502678v1	Xanthomonas campestris pv. campestris (g-proteobacteria)	339	SAMN36346973	110143	206	WHRI 6382 (NCPPB 1711)	campestris	University of Exeter
-GCA_035026985.1	ASM3502698v1	Xanthomonas campestris pv. campestris (g-proteobacteria)	339	SAMN36346926	104569	107	WHRI 6185	campestris	University of Exeter
-GCA_035027265.1	ASM3502726v1	Xanthomonas campestris pv. campestris (g-proteobacteria)	339	SAMN36348466	133690	64	WHRI 10040	campestris	University of Exeter
-GCA_035027565.3	ASM3502756v3	Xanthomonas campestris pv. campestris (g-proteobacteria)	339	SAMN36348468	5219173	43	WHRI 8497	campestris	University of Exeter
-GCA_035027605.3	ASM3502760v3	Xanthomonas campestris pv. campestris (g-proteobacteria)	339	SAMN36348502	5077991	58	WHRI 10018A	campestris	University of Exeter
-GCA_035058785.1	ASM3505878v1	Xanthomonas campestris pv. campestris (g-proteobacteria)	339	SAMN36348472	177456	174	WHRI 10042	campestris	University of Exeter
-GCA_035059395.2	ASM3505939v2	Xanthomonas campestris pv. campestris (g-proteobacteria)	339	SAMN36348488	5056395	340	WHRI 8892A	campestris	University of Exeter
-GCA_035059585.2	WHRI8978v2_ONT	Xanthomonas campestris pv. campestris (g-proteobacteria)	339	SAMN36348498	5120633	2.5	WHRI 8978	campestris	University of Exeter
-GCA_035061335.1	ASM3506133v1	Xanthomonas campestris pv. campestris (g-proteobacteria)	339	SAMN36346362	93794	109	WHRI 8806	campestris	University of Exeter
-GCA_035061355.1	ASM3506135v1	Xanthomonas campestris pv. campestris (g-proteobacteria)	339	SAMN36346301	116297	190	WHRI 8346	campestris	University of Exeter
-GCF_040193815.1	ASM4019381v1	Xanthomonas campestris pv. campestris (g-proteobacteria)	339	SAMN39785576	153062	177	WHRI 10072B	campestris	University of Exeter
-GCF_040193955.1	ASM4019395v1	Xanthomonas campestris pv. campestris (g-proteobacteria)	339	SAMN39785573	152647	181	WHRI 10071A	campestris	University of Exeter
-GCF_040194175.1	ASM4019417v1	Xanthomonas campestris pv. campestris (g-proteobacteria)	339	SAMN39785586	172057	176	WHRI 3961	campestris	University of Exeter
-GCF_040194495.1	ASM4019449v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN40354518	168927	202	WHRI 8482		University of Exeter
-GCF_040194575.1	ASM4019457v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN39908782	138618	167	WHRI 10253		University of Exeter
-GCF_040194595.1	ASM4019459v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN39908778	162689	176	WHRI 10231C		University of Exeter
-GCF_040194655.1	ASM4019465v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN39908752	122899	176	WHRI 10227		University of Exeter
-GCF_040194715.1	ASM4019471v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN39908764	124921	181	WHRI 10258		University of Exeter
-GCF_040194735.1	ASM4019473v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN39908762	198301	175	WHRI 10254		University of Exeter
-GCF_040194745.1	ASM4019474v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN39908777	135171	176	WHRI 10231B		University of Exeter
-GCF_040194775.1	ASM4019477v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN39908761	198139	181	WHRI 10252		University of Exeter
-GCF_040194795.1	ASM4019479v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN39908784	124921	183	WHRI 10257A		University of Exeter
-GCF_040194835.2	ASM4019483v2	Xanthomonas campestris (g-proteobacteria)	339	SAMN39908783	5009601	300	WHRI 10255		University of Exeter
-GCF_040194855.1	ASM4019485v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN39908763	188889	176	WHRI 10256		University of Exeter
-GCF_040194935.1	ASM4019493v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN39908776	160773	175	WHRI 10231A		University of Exeter
-GCF_040195015.1	ASM4019501v1	Xanthomonas campestris pv. incanae (g-proteobacteria)	339	SAMN40354516	162147	171	WHRI 10225	incanae	University of Exeter
-GCF_040195035.1	ASM4019503v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN39908755	150933	184	WHRI 10230		University of Exeter
-GCF_040195055.1	ASM4019505v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN39908754	150557	178	WHRI 10229		University of Exeter
-GCF_040195075.1	ASM4019507v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN39908750	168554	178	WHRI 10221		University of Exeter
-GCF_040195095.1	ASM4019509v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN39908751	172410	178	WHRI 10226		University of Exeter
-GCF_040195115.1	ASM4019511v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN39908753	135136	175	WHRI 10228		University of Exeter
-GCF_040195135.1	ASM4019513v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN39908773	172418	172	WHRI 10219A		University of Exeter
-GCF_040195175.1	ASM4019517v1	Xanthomonas campestris pv. incanae (g-proteobacteria)	339	SAMN40354517	176460	166	WHRI 10223	incanae	University of Exeter
-GCF_040195195.1	ASM4019519v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN39908775	228376	174	WHRI 10219D		University of Exeter
-GCF_040195215.1	ASM4019521v1	Xanthomonas campestris pv. incanae (g-proteobacteria)	339	SAMN40354515	197271	178	WHRI 10224	incanae	University of Exeter
-GCF_040195235.1	ASM4019523v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN39908770	181888	151	WHRI 10068B		University of Exeter
-GCF_040195275.1	ASM4019527v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN39908774	182370	178	WHRI 10219C		University of Exeter
-GCF_040195315.1	ASM4019531v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN39908767	156528	183	WHRI 10067A		University of Exeter
-GCF_040195355.1	ASM4019535v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN39908766	158263	183	WHRI 10066B		University of Exeter
-GCF_040195375.1	ASM4019537v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN39908765	124968	174	WHRI 10066A		University of Exeter
-GCF_041475695.1	NCPPB4037v1_ONT	Xanthomonas sp. NCPPB 4037 (g-proteobacteria)	487568	SAMN42161492	5180219	300	NCPPB 4037		University of Exeter
-GCF_041520885.1	ASM4152088v1	Xanthomonas sp. NCPPB 2922 (g-proteobacteria)	487547	SAMN43286070	183992	90	NCPPB 2922		University of Exeter
-GCF_045709795.1	ASM4570979v1	Xanthomonas campestris pv. campestris (g-proteobacteria)	339	SAMN41088074	5026633	313.007	CFBP 1124	campestris	University of Amsterdam
-GCF_047458575.1	ASM4745857v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN10440488	156519	115	WHRI 6375		University of Warwick
-GCF_047458595.1	ASM4745859v1	Xanthomonas campestris pv. armoraciae (g-proteobacteria)	339	SAMN10440485	188435	38	WHRI 6376	armoraciae	University of Warwick
-GCF_047458615.1	ASM4745861v1	Xanthomonas campestris pv. plantaginis (g-proteobacteria)	339	SAMN10440486	161916	156	WHRI 8521	plantaginis	University of Warwick
-GCF_047458655.1	ASM4745865v1	Xanthomonas campestris pv. incanae (g-proteobacteria)	339	SAMN10440484	146644	51	WHRI 6378	incanae	University of Warwick
-GCF_047458735.1	ASM4745873v1	Xanthomonas campestris pv. campestris (g-proteobacteria)	339	SAMN10440476	266817	57	WHRI 6382	campestris	University of Warwick
-GCF_047458755.1	ASM4745875v1	Xanthomonas campestris pv. campestris (g-proteobacteria)	339	SAMN10440477	150997	65	WHRI 6181	campestris	University of Warwick
-GCF_047458775.1	ASM4745877v1	Xanthomonas campestris pv. campestris (g-proteobacteria)	339	SAMN10440475	130562	57	WHRI 3880	campestris	University of Warwick
-GCF_047458835.1	ASM4745883v1	Xanthomonas campestris pv. campestris (g-proteobacteria)	339	SAMN10440469	132901	89	WHRI 1279A	campestris	University of Warwick
-GCF_047458875.1	ASM4745887v1	Xanthomonas campestris pv. campestris (g-proteobacteria)	339	SAMN10440467	201253	171	WHRI 3849A	campestris	University of Warwick
-GCF_047458915.1	ASM4745891v1	Xanthomonas campestris pv. campestris (g-proteobacteria)	339	SAMN10440465	247790	47	WHRI 6195	campestris	University of Warwick
-GCF_047458935.1	ASM4745893v1	Xanthomonas campestris pv. raphani (g-proteobacteria)	339	SAMN10440460	160341	100	WHRI 8305	raphani	University of Warwick
-GCF_047458955.1	ASM4745895v1	Xanthomonas campestris pv. raphani (g-proteobacteria)	339	SAMN10440462	141184	106	WHRI 6519	raphani	University of Warwick
-GCF_047458975.1	ASM4745897v1	Xanthomonas campestris pv. campestris (g-proteobacteria)	339	SAMN10440464	194262	113	WHRI 3811	campestris	University of Warwick
-GCF_047459095.1	ASM4745909v1	Xanthomonas campestris pv. raphani (g-proteobacteria)	339	SAMN10440456	135506	103	WHRI 6490	raphani	University of Warwick
-GCA_900002255.1	20120324	Xanthomonas campestris pv. campestris str. CN20 (g-proteobacteria)	339	SAMEA3158478	116198	944	CN20	campestris	EBI
-GCF_900039345.1	20120324	Xanthomonas campestris pv. campestris str. CN19 (g-proteobacteria)	339	SAMEA3158497	115047	992	CN19	campestris	EBI
-GCF_900044145.1	20120320	Xanthomonas campestris pv. campestris str. CFBP 1119 (g-proteobacteria)	339	SAMEA3158472	183459	1063	CFBP1119	campestris	EBI
+AssemblyAccession	AssemblyName	Organism	SpeciesTaxid	BioSampleAccn	ContigN50	Coverage	Strain	Pathovar	Owner	Link
+GCF_000007145.1	ASM714v1	Xanthomonas campestris pv. campestris str. ATCC 33913 (g-proteobacteria)	339	SAMN02603845	5076188		ATCC 33913	campestris	NCBI	296
+GCF_000012105.1	ASM1210v1	Xanthomonas campestris pv. campestris str. 8004 (g-proteobacteria)	339	SAMN02603125	5148708		8004	campestris	NCBI	15
+GCF_000070605.1	ASM7060v1	Xanthomonas campestris pv. campestris (g-proteobacteria)	339	SAMEA3138285	5079002		B100	campestris	EBI	
+GCF_000401735.2	ASM40173v2	Xanthomonas campestris pv. campestris str. CN14 (g-proteobacteria)	339	SAMN02469931	5033560	60	CN14	campestris	NCBI	185972
+GCF_000403555.2	ASM40355v2	Xanthomonas campestris pv. campestris str. CN16 (g-proteobacteria)	339	SAMN02469927	5023147	77	CN16	campestris	NCBI	185974
+GCF_000403575.2	ASM40357v2	Xanthomonas campestris pv. campestris str. CN15 (g-proteobacteria)	339	SAMN02469928	5030187	100	CN15	campestris	NCBI	185973
+GCF_000589875.1	20120327	Xanthomonas campestris pv. campestris (g-proteobacteria)	339	SAMN02645661	415646	916	CFBP 6865R	campestris	CNRS	211768
+GCF_000590075.1	20130205	Xanthomonas campestris pv. campestris str. CFBP 5817 (g-proteobacteria)	339	SAMN02645658	124247	1199	CFBP 5817	campestris	CNRS	211770
+GCF_000590115.1	20121028	Xanthomonas campestris pv. campestris str. CN01 (g-proteobacteria)	339	SAMN02645663	179901	836	CN01	campestris	CNRS	211771
+GCF_000590155.1	20121030	Xanthomonas campestris pv. campestris str. CN05 (g-proteobacteria)	339	SAMN02645666	160826	859	CN05	campestris	CNRS	211775
+GCF_000590275.1	20120412	Xanthomonas campestris pv. campestris str. CFBP 1124 (g-proteobacteria)	339	SAMN02645653	149591	240	CFBP 1124	campestris	CNRS	211736
+GCF_000590295.1	20120411	Xanthomonas campestris pv. campestris str. 147 (g-proteobacteria)	339	SAMN02645650	80681	320	147	campestris	CNRS	211733
+GCF_002776735.1	ASM277673v1	Xanthomonas campestris pv. campestris str. CN03 (g-proteobacteria)	339	SAMN02645665	5035984	140	CN03	campestris	CNRS	211759
+GCF_003410125.1	ASM341012v1	Xanthomonas campestris pv. campestris (g-proteobacteria)	339	SAMN09828750	151674	184	WHRI10003	campestris	University of Exeter	485808
+GCF_003410175.1	ASM341017v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN09828782	308719	109	WHRI8473		University of Exeter	485808
+GCF_003410195.1	ASM341019v1	Xanthomonas campestris pv. incanae (g-proteobacteria)	339	SAMN09828784	145002	167	WHRI8527	incanae	University of Exeter	485808
+GCF_003410215.1	ASM341021v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN09828783	309071	116	WHRI8525		University of Exeter	485808
+GCF_003410225.1	ASM341022v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN09828785	182674	110	WHRI8481		University of Exeter	485808
+GCF_003413645.1	ASM341364v1	Xanthomonas campestris pv. campestris (g-proteobacteria)	339	SAMN09828786	171219	134	WHRI8960	campestris	University of Exeter	485808
+GCF_020783795.1	ASM2078379v1	Xanthomonas sp. NCPPB 1067 (g-proteobacteria)	487524	SAMN22555470	131010	32	NCPPB 1067		University of Exeter	774146
+GCF_020812955.1	ASM2081295v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN22552836	189096	133	NCPPB 4037		University of Exeter	774128
+GCF_020812975.1	ASM2081297v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN22552837	300883	151	NCPPB 2345		University of Exeter	774128
+GCF_020812995.1	ASM2081299v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN22552841	424918	177	NCPPB 4231		University of Exeter	774128
+GCF_020813015.2	ASM2081301v2	Xanthomonas campestris pv. papavericola (g-proteobacteria)	339	SAMN22552843	4695898	25	NCPPB 2970	papavericola	University of Exeter	774128
+GCF_020813055.1	ASM2081305v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN22552833	184313	96	NCPPB 2918		University of Exeter	774128
+GCF_020813085.1	ASM2081308v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN22552832	163267	137	NCPPB 3884		University of Exeter	774128
+GCF_020813155.1	ASM2081315v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN22552831	163261	223	NCPPB 3883		University of Exeter	774128
+GCF_020813195.1	ASM2081319v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN22552842	925886	99	NCPPB 4232		University of Exeter	774128
+GCF_020813295.1	ASM2081329v1	Xanthomonas campestris pv. incanae (g-proteobacteria)	339	SAMN22552838	191313	115	NCPPB 937	incanae	University of Exeter	774128
+GCF_020813315.3	ASM2081331v3	Xanthomonas campestris pv. barbareae (g-proteobacteria)	339	SAMN22552839	5056482	83	NCPPB 983	barbareae	University of Exeter	774128
+GCF_035011285.1	ASM3501128v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN36315990	178288	185	WHRI 10046		University of Exeter	485808
+GCF_035011305.1	ASM3501130v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN36293680	102486	236	WHRI 10114		University of Exeter	485808
+GCF_035011345.1	ASM3501134v1	Xanthomonas campestris pv. incanae (g-proteobacteria)	339	SAMN36318709	119777	114	WHRI 8527	incanae	University of Exeter	485808
+GCF_035011365.1	ASM3501136v1	Xanthomonas campestris WHRI 8523 (g-proteobacteria)	339	SAMN36318708	138456	201	WHRI 8523		University of Exeter	485808
+GCF_035011385.1	ASM3501138v1	Xanthomonas campestris pv. incanae (g-proteobacteria)	339	SAMN36318705	104228	110	WHRI 6378	incanae	University of Exeter	485808
+GCF_035011425.1	ASM3501142v1	Xanthomonas campestris pv. raphani (g-proteobacteria)	339	SAMN36315931	109483	124	WHRI 8305	raphani	University of Exeter	991733
+GCF_035011505.1	ASM3501150v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN36315978	128861	145	WHRI 10041		University of Exeter	485808
+GCF_035011525.1	ASM3501152v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN36318711	228289	165	WHRI 10028A		University of Exeter	485808
+GCF_035011545.1	ASM3501154v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN36315988	234895	269	WHRI 10039		University of Exeter	485808
+GCF_035011565.1	ASM3501156v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN36315982	188888	309	WHRI 8477		University of Exeter	485808
+GCF_035011605.1	ASM3501160v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN36315987	253208	193	WHRI 10038		University of Exeter	485808
+GCF_035011625.1	ASM3501162v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN36315981	189060	297	WHRI 8476		University of Exeter	485808
+GCF_035011645.1	ASM3501164v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN36315980	123131	223	WHRI 10045		University of Exeter	485808
+GCF_035011665.1	ASM3501166v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN36315986	193049	345	WHRI 10037		University of Exeter	485808
+GCF_035011685.1	ASM3501168v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN36315985	116783	131	WHRI 10050A		University of Exeter	485808
+GCF_035011705.1	ASM3501170v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN36315979	114476	332	WHRI 10043		University of Exeter	485808
+GCF_035011745.1	ASM3501174v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN36318710	207893	171	WHRI 10027B		University of Exeter	485808
+GCF_035011765.1	ASM3501176v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN36315991	171860	109	WHRI 8963		University of Exeter	485808
+GCF_035011785.1	ASM3501178v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN36315989	172485	71	WHRI 10044		University of Exeter	485808
+GCF_035011805.1	ASM3501180v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN36318707	157238	187	WHRI 3777A		University of Exeter	485808
+GCF_035011825.1	ASM3501182v1	Xanthomonas campestris pv. plantaginis (g-proteobacteria)	339	SAMN36318706	136070	292	WHRI 8522	plantaginis	University of Exeter	485808
+GCF_035011845.1	ASM3501184v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN36293677	111667	260	WHRI 8960		University of Exeter	485808
+GCF_035011865.1	ASM3501186v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN36315984	360679	142	WHRI 8474		University of Exeter	485808
+GCF_035012425.1	ASM3501242v1	Xanthomonas campestris pv. raphani (g-proteobacteria)	339	SAMN36315913	159556	296	WHRI 6490	raphani	University of Exeter	991733
+GCF_035013725.1	ASM3501372v1	Xanthomonas campestris pv. raphani (g-proteobacteria)	339	SAMN36315923	190120	324	WHRI 6519	raphani	University of Exeter	991733
+GCF_035013825.1	ASM3501382v1	Xanthomonas campestris pv. raphani (g-proteobacteria)	339	SAMN36315927	164505	216	WHRI 8298	raphani	University of Exeter	991733
+GCA_035023305.1	ASM3502330v1	Xanthomonas campestris pv. campestris (g-proteobacteria)	339	SAMN36346923	117600	279	WHRI 6181	campestris	University of Exeter	988133
+GCA_035023345.1	ASM3502334v1	Xanthomonas campestris pv. campestris (g-proteobacteria)	339	SAMN36368330	165449	121	WHRI 5219 (NCPPB 2517)	campestris	University of Exeter	988133
+GCA_035023425.1	ASM3502342v1	Xanthomonas campestris pv. campestris (g-proteobacteria)	339	SAMN36368309	147828	175	WHRI 3811	campestris	University of Exeter	988133
+GCA_035023805.1	ASM3502380v1	Xanthomonas campestris pv. campestris (g-proteobacteria)	339	SAMN36368323	155096	148	WHRI 3880 (NCPPB 2986)	campestris	University of Exeter	988133
+GCA_035023825.1	ASM3502382v1	Xanthomonas campestris pv. campestris (g-proteobacteria)	339	SAMN36368329	222227	147	WHRI 5212 (NCPPB 528)	campestris	University of Exeter	988133
+GCA_035025285.1	ASM3502528v1	Xanthomonas campestris pv. campestris (g-proteobacteria)	339	SAMN36368316	178112	175	WHRI 3843B	campestris	University of Exeter	988133
+GCA_035025305.1	ASM3502530v1	Xanthomonas campestris pv. campestris (g-proteobacteria)	339	SAMN36368382	163467	161	WHRI 6022A	campestris	University of Exeter	988133
+GCA_035025745.1	ASM3502574v1	Xanthomonas campestris pv. campestris (g-proteobacteria)	339	SAMN36368312	121537	276	WHRI 3820A	campestris	University of Exeter	988133
+GCA_035025925.1	ASM3502592v1	Xanthomonas campestris pv. campestris (g-proteobacteria)	339	SAMN36368340	163157	146	WHRI 8450A	campestris	University of Exeter	988133
+GCA_035026625.1	ASM3502662v1	Xanthomonas campestris pv. campestris (g-proteobacteria)	339	SAMN36346965	107429	295	WHRI 6087	campestris	University of Exeter	988133
+GCA_035026705.1	ASM3502670v1	Xanthomonas campestris pv. campestris (g-proteobacteria)	339	SAMN36346967	93985	309	WHRI 6367	campestris	University of Exeter	988133
+GCA_035026785.1	ASM3502678v1	Xanthomonas campestris pv. campestris (g-proteobacteria)	339	SAMN36346973	110143	206	WHRI 6382 (NCPPB 1711)	campestris	University of Exeter	988133
+GCA_035026985.1	ASM3502698v1	Xanthomonas campestris pv. campestris (g-proteobacteria)	339	SAMN36346926	104569	107	WHRI 6185	campestris	University of Exeter	988133
+GCA_035027265.1	ASM3502726v1	Xanthomonas campestris pv. campestris (g-proteobacteria)	339	SAMN36348466	133690	64	WHRI 10040	campestris	University of Exeter	988133
+GCA_035027565.3	ASM3502756v3	Xanthomonas campestris pv. campestris (g-proteobacteria)	339	SAMN36348468	5219173	43	WHRI 8497	campestris	University of Exeter	988133
+GCA_035027605.3	ASM3502760v3	Xanthomonas campestris pv. campestris (g-proteobacteria)	339	SAMN36348502	5077991	58	WHRI 10018A	campestris	University of Exeter	988133
+GCA_035058785.1	ASM3505878v1	Xanthomonas campestris pv. campestris (g-proteobacteria)	339	SAMN36348472	177456	174	WHRI 10042	campestris	University of Exeter	988133
+GCA_035059395.2	ASM3505939v2	Xanthomonas campestris pv. campestris (g-proteobacteria)	339	SAMN36348488	5056395	340	WHRI 8892A	campestris	University of Exeter	988133
+GCA_035059585.2	WHRI8978v2_ONT	Xanthomonas campestris pv. campestris (g-proteobacteria)	339	SAMN36348498	5120633	2.5	WHRI 8978	campestris	University of Exeter	988133
+GCA_035061335.1	ASM3506133v1	Xanthomonas campestris pv. campestris (g-proteobacteria)	339	SAMN36346362	93794	109	WHRI 8806	campestris	University of Exeter	988133
+GCA_035061355.1	ASM3506135v1	Xanthomonas campestris pv. campestris (g-proteobacteria)	339	SAMN36346301	116297	190	WHRI 8346	campestris	University of Exeter	988133
+GCF_040193815.1	ASM4019381v1	Xanthomonas campestris pv. campestris (g-proteobacteria)	339	SAMN39785576	153062	177	WHRI 10072B	campestris	University of Exeter	982295
+GCF_040193955.1	ASM4019395v1	Xanthomonas campestris pv. campestris (g-proteobacteria)	339	SAMN39785573	152647	181	WHRI 10071A	campestris	University of Exeter	982295
+GCF_040194175.1	ASM4019417v1	Xanthomonas campestris pv. campestris (g-proteobacteria)	339	SAMN39785586	172057	176	WHRI 3961	campestris	University of Exeter	982295
+GCF_040194495.1	ASM4019449v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN40354518	168927	202	WHRI 8482		University of Exeter	991952
+GCF_040194575.1	ASM4019457v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN39908782	138618	167	WHRI 10253		University of Exeter	991952
+GCF_040194595.1	ASM4019459v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN39908778	162689	176	WHRI 10231C		University of Exeter	991952
+GCF_040194655.1	ASM4019465v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN39908752	122899	176	WHRI 10227		University of Exeter	991952
+GCF_040194715.1	ASM4019471v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN39908764	124921	181	WHRI 10258		University of Exeter	991952
+GCF_040194735.1	ASM4019473v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN39908762	198301	175	WHRI 10254		University of Exeter	991952
+GCF_040194745.1	ASM4019474v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN39908777	135171	176	WHRI 10231B		University of Exeter	991952
+GCF_040194775.1	ASM4019477v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN39908761	198139	181	WHRI 10252		University of Exeter	991952
+GCF_040194795.1	ASM4019479v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN39908784	124921	183	WHRI 10257A		University of Exeter	991952
+GCF_040194835.2	ASM4019483v2	Xanthomonas campestris (g-proteobacteria)	339	SAMN39908783	5009601	300	WHRI 10255		University of Exeter	991952
+GCF_040194855.1	ASM4019485v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN39908763	188889	176	WHRI 10256		University of Exeter	991952
+GCF_040194935.1	ASM4019493v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN39908776	160773	175	WHRI 10231A		University of Exeter	991952
+GCF_040195015.1	ASM4019501v1	Xanthomonas campestris pv. incanae (g-proteobacteria)	339	SAMN40354516	162147	171	WHRI 10225	incanae	University of Exeter	991952
+GCF_040195035.1	ASM4019503v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN39908755	150933	184	WHRI 10230		University of Exeter	991952
+GCF_040195055.1	ASM4019505v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN39908754	150557	178	WHRI 10229		University of Exeter	991952
+GCF_040195075.1	ASM4019507v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN39908750	168554	178	WHRI 10221		University of Exeter	991952
+GCF_040195095.1	ASM4019509v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN39908751	172410	178	WHRI 10226		University of Exeter	991952
+GCF_040195115.1	ASM4019511v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN39908753	135136	175	WHRI 10228		University of Exeter	991952
+GCF_040195135.1	ASM4019513v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN39908773	172418	172	WHRI 10219A		University of Exeter	991952
+GCF_040195175.1	ASM4019517v1	Xanthomonas campestris pv. incanae (g-proteobacteria)	339	SAMN40354517	176460	166	WHRI 10223	incanae	University of Exeter	991952
+GCF_040195195.1	ASM4019519v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN39908775	228376	174	WHRI 10219D		University of Exeter	991952
+GCF_040195215.1	ASM4019521v1	Xanthomonas campestris pv. incanae (g-proteobacteria)	339	SAMN40354515	197271	178	WHRI 10224	incanae	University of Exeter	991952
+GCF_040195235.1	ASM4019523v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN39908770	181888	151	WHRI 10068B		University of Exeter	991952
+GCF_040195275.1	ASM4019527v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN39908774	182370	178	WHRI 10219C		University of Exeter	991952
+GCF_040195315.1	ASM4019531v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN39908767	156528	183	WHRI 10067A		University of Exeter	991952
+GCF_040195355.1	ASM4019535v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN39908766	158263	183	WHRI 10066B		University of Exeter	991952
+GCF_040195375.1	ASM4019537v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN39908765	124968	174	WHRI 10066A		University of Exeter	991952
+GCF_041475695.1	NCPPB4037v1_ONT	Xanthomonas sp. NCPPB 4037 (g-proteobacteria)	487568	SAMN42161492	5180219	300	NCPPB 4037		University of Exeter	1129555
+GCF_041520885.1	ASM4152088v1	Xanthomonas sp. NCPPB 2922 (g-proteobacteria)	487547	SAMN43286070	183992	90	NCPPB 2922		University of Exeter	485808
+GCF_045709795.1	ASM4570979v1	Xanthomonas campestris pv. campestris (g-proteobacteria)	339	SAMN41088074	5026633	313.007	CFBP 1124	campestris	University of Amsterdam	1104797
+GCF_047458575.1	ASM4745857v1	Xanthomonas campestris (g-proteobacteria)	339	SAMN10440488	156519	115	WHRI 6375		University of Warwick	
+GCF_047458595.1	ASM4745859v1	Xanthomonas campestris pv. armoraciae (g-proteobacteria)	339	SAMN10440485	188435	38	WHRI 6376	armoraciae	University of Warwick	
+GCF_047458615.1	ASM4745861v1	Xanthomonas campestris pv. plantaginis (g-proteobacteria)	339	SAMN10440486	161916	156	WHRI 8521	plantaginis	University of Warwick	
+GCF_047458655.1	ASM4745865v1	Xanthomonas campestris pv. incanae (g-proteobacteria)	339	SAMN10440484	146644	51	WHRI 6378	incanae	University of Warwick	
+GCF_047458735.1	ASM4745873v1	Xanthomonas campestris pv. campestris (g-proteobacteria)	339	SAMN10440476	266817	57	WHRI 6382	campestris	University of Warwick	
+GCF_047458755.1	ASM4745875v1	Xanthomonas campestris pv. campestris (g-proteobacteria)	339	SAMN10440477	150997	65	WHRI 6181	campestris	University of Warwick	
+GCF_047458775.1	ASM4745877v1	Xanthomonas campestris pv. campestris (g-proteobacteria)	339	SAMN10440475	130562	57	WHRI 3880	campestris	University of Warwick	
+GCF_047458835.1	ASM4745883v1	Xanthomonas campestris pv. campestris (g-proteobacteria)	339	SAMN10440469	132901	89	WHRI 1279A	campestris	University of Warwick	
+GCF_047458875.1	ASM4745887v1	Xanthomonas campestris pv. campestris (g-proteobacteria)	339	SAMN10440467	201253	171	WHRI 3849A	campestris	University of Warwick	
+GCF_047458915.1	ASM4745891v1	Xanthomonas campestris pv. campestris (g-proteobacteria)	339	SAMN10440465	247790	47	WHRI 6195	campestris	University of Warwick	
+GCF_047458935.1	ASM4745893v1	Xanthomonas campestris pv. raphani (g-proteobacteria)	339	SAMN10440460	160341	100	WHRI 8305	raphani	University of Warwick	
+GCF_047458955.1	ASM4745895v1	Xanthomonas campestris pv. raphani (g-proteobacteria)	339	SAMN10440462	141184	106	WHRI 6519	raphani	University of Warwick	
+GCF_047458975.1	ASM4745897v1	Xanthomonas campestris pv. campestris (g-proteobacteria)	339	SAMN10440464	194262	113	WHRI 3811	campestris	University of Warwick	
+GCF_047459095.1	ASM4745909v1	Xanthomonas campestris pv. raphani (g-proteobacteria)	339	SAMN10440456	135506	103	WHRI 6490	raphani	University of Warwick	
+GCA_900002255.1	20120324	Xanthomonas campestris pv. campestris str. CN20 (g-proteobacteria)	339	SAMEA3158478	116198	944	CN20	campestris	EBI	
+GCF_900039345.1	20120324	Xanthomonas campestris pv. campestris str. CN19 (g-proteobacteria)	339	SAMEA3158497	115047	992	CN19	campestris	EBI	
+GCF_900044145.1	20120320	Xanthomonas campestris pv. campestris str. CFBP 1119 (g-proteobacteria)	339	SAMEA3158472	183459	1063	CFBP1119	campestris	EBI	
