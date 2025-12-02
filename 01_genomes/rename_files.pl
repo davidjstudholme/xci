@@ -35,7 +35,7 @@ while (my $line = <GENOMES_LIST>) {
 		    $genome_name =~ s/\s+/_/g;
 		    $genomes_list{$filename} = $genome_name;
 		} else {
-		    warn "Can't find a file $filename";
+		    #warn "This is not file $filename";
 		}	    
 	    }
 	}
