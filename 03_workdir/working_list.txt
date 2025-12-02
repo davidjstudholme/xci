@@ -1,3 +1,6 @@
+10303_A_S47_unicycler_assembly
+10304_A_S48_unicycler_assembly
+2023027163_unicycler_assembly
 WHRI_5212_Xcc_Race_3
 10006_campestris_contig
 10008_campestris_contig
